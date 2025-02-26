@@ -1,0 +1,16 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "This repository contains a serverless implementation of a Tasks API using AWS Lambda and DynamoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.147",
+    "aws-sdk": "^2.1692.0",
+    "typescript": "^5.7.3"
+  }
+}
